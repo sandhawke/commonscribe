@@ -1,0 +1,5 @@
+.versioned/
+*~
+OLD/*
+node_modules/
+npm-debug.log

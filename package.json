@@ -1,0 +1,19 @@
+{
+  "name": "commonscribe",
+  "version": "0.0.1",
+  "description": "Meeting support tools, based around W3C's tradition of meeting scribing",
+  "main": "rrs2mev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandhawke/commonscribe.git"
+  },
+  "author": "\"Sandro Hawke <sandro@hawke.org>",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/sandhawke/commonscribe/issues"
+  },
+  "homepage": "https://github.com/sandhawke/commonscribe"
+}
